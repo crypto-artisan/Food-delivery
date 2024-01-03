@@ -99,3 +99,5 @@ password : moderator
 - User orders tracker page.
 - Real time order notifications.
 - Dashboard with users, categories, orders and products management system.
+
+@powered by hightecular95908
